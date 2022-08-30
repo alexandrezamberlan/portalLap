@@ -161,21 +161,6 @@ hr {
   font-size: 20px;
 }
 
-/* Green */
-
-#Salmon {
-    background-color: #F08080;
-    font-size:400px;
-    color: white;
-    text-decoration-color: white;
-    text-emphasis-color: white;
-    height: 100px;
-    width: 480px;
-    padding-top: 60px;
-    margin-bottom: 80px;
-    align: centered;
-}
-
 /* Skills */
 
 #skills {
